@@ -1,2 +1,5 @@
-# self-hosting-example
-This is the repository that hosts the example from https://docs.expo.io/versions/latest/distribution/hosting-your-app/
+# Habit Tracker Assets Hosting
+
+This repository contains the assets for the Habit Tracker application. The assets are hosted on GitHub Pages and can be accessed at the following URL:
+
+https://expo-hosting.evanidea.cc
